@@ -42,11 +42,13 @@ Contributing Factors:
 - Elevated heart rate
 
 🧠 AI Insight:
+
 Patient may be experiencing respiratory distress.
 Recommend evaluating for infection or airway obstruction.
 
 
 ⚙️ Tech Stack
+
 Python, PyTorch, scikit-learn
 FastAPI, Streamlit
 SHAP, XGBoost
